@@ -1,0 +1,8 @@
+my: 
+ greeting: Hello guys
+ list: 
+    values: one, two, three
+
+db:
+  connection-from-config-server
+  port: 8080
